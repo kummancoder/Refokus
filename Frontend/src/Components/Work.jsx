@@ -40,7 +40,7 @@ const Work = () => {
     },
   ]);
   return (
-    <div className="w-full">
+    <div className="w-full mt-8">
       <div className="relative max-w-screen-xl mx-auto  text-center font-medium select-none">
         <h1 className="text-[30vw] leading-none tracking-tight">Work</h1>
         <div className="absolute top-0 w-full h-full">
@@ -54,4 +54,4 @@ const Work = () => {
   );
 };
 
-export default Work
+export default Work;
